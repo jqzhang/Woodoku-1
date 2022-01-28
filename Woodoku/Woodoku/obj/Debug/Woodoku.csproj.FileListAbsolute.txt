@@ -1,0 +1,10 @@
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\bin\Debug\Woodoku.exe.config
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\bin\Debug\Woodoku.exe
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\bin\Debug\Woodoku.pdb
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.csprojAssemblyReference.cache
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.Properties.Resources.resources
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.csproj.GenerateResource.cache
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.csproj.CoreCompileInputs.cache
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.exe
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.pdb
+C:\Users\ajkap\source\repos\Woodoku\Woodoku\obj\Debug\Woodoku.Form1.resources
